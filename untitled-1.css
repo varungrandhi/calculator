@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.calci
+{
+    width: 300px;
+    margin-left:auto;
+    margin-right: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: absolute;
+    top: 40%;
+    left: 65%;
+    border-radius: 11px;
+    transform: translate(-50%,-50%);
+    transition: 0.25px;
+    text-align: center;
+}
+#display
+{
+    border: none;
+    background: white;
+    border-radius: 30px;
+    width: 245;
+    font-size: 20;
+    font-family: sans-serif;
+    font-weight: 300;
+    height: 60;
+    margin: auto;
+}
+.btd{
+    width: 55;
+    height: 55;
+    border-radius: 25px;
+}
+
+
+
